@@ -1,0 +1,9 @@
+.DS_Store
+target/
+lib/
+*.class
+*.jar
+*.log
+*.db
+.idea/
+*.iml
